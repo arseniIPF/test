@@ -57,3 +57,6 @@ cosa.setVelocity(50, 50)
 if (homonet.overlapsWith(cosa)) {
     music.play(music.createSoundEffect(WaveShape.Triangle, 300, 200, 255, 0, 75, SoundExpressionEffect.None, InterpolationCurve.Curve), music.PlaybackMode.UntilDone)
 }
+for (let index = 0; index < 4; index++) {
+	
+}
